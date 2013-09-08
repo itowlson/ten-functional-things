@@ -1,0 +1,12 @@
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\bin\Debug\TenThingsDemos.Infix.exe.config
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\bin\Debug\TenThingsDemos.Infix.XML
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\bin\Debug\TenThingsDemos.Infix.exe
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\bin\Debug\TenThingsDemos.Infix.pdb
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\bin\Debug\FParsec.dll
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\bin\Debug\FParsecCS.dll
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\bin\Debug\FSharp.Core.dll
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\bin\Debug\FParsec.xml
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\bin\Debug\FParsecCS.xml
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\bin\Debug\FSharp.Core.xml
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\obj\Debug\TenThingsDemos.Infix.exe
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\TenThingsDemos.Infix\obj\Debug\TenThingsDemos.Infix.pdb

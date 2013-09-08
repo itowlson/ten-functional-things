@@ -1,0 +1,6 @@
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\CSharpEquivalents\bin\Debug\CSharpEquivalents.exe.config
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\CSharpEquivalents\bin\Debug\CSharpEquivalents.exe
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\CSharpEquivalents\bin\Debug\CSharpEquivalents.pdb
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\CSharpEquivalents\obj\Debug\CSharpEquivalents.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\CSharpEquivalents\obj\Debug\CSharpEquivalents.exe
+C:\Users\ivan\Documents\Visual Studio 2012\Projects\TenThingsDemos\CSharpEquivalents\obj\Debug\CSharpEquivalents.pdb
