@@ -18,3 +18,6 @@ let count = 0
 //count <- count + 1
 let mutable count' = 0
 count' <- count' + 1
+
+let extend { X = x; Y = y; Z = z } dx dy dz =
+  { X = x * dx; Y = y + dy; Z = z + dz }
