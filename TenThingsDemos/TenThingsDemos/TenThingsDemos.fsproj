@@ -55,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Utils.fs" />
+    <Compile Include="BubblingUnder.fs" />
     <Compile Include="10_Expressions.fs" />
     <Compile Include="09_Unit.fs" />
     <Compile Include="08_Immutable.fs" />

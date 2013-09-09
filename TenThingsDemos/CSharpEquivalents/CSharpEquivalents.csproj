@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="01_PatternMatching.cs" />
+    <Compile Include="03_Infix.cs" />
     <Compile Include="04_TypeInference.cs" />
     <Compile Include="07_DiscriminatedUnion.cs" />
     <Compile Include="08_Immutable.cs" />

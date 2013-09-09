@@ -8,6 +8,9 @@ let isEven n = n % 2 = 0
 let isOdd = not << isEven
 let isOdd' = isEven >> not
 
+let (++) s1 s2 = s1 + " " + s2
+let greeting = "hello" ++ "world"
+
 //let (|>) x f = f x
 let isSquareRootOdd x = isOdd (int (sqrt x))
 let isSquareRootOdd' x = x |> sqrt |> int |> isOdd
