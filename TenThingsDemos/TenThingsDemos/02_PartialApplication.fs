@@ -8,7 +8,8 @@ let isOdd = not << isEven
 
 let testValues = [1;2;3;4]
 
-// let (|>) x f = f x
+// (|>) x f = f x
+// NOTE: This is NOT e.g. (|>) x f y = f y x -- |> takes two args
 let oddSquares = testValues
                  |> List.map square
                  |> List.filter isOdd

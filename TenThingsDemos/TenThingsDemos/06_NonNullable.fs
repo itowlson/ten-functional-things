@@ -23,7 +23,7 @@ let buildImage (pt : Point3D) : System.Drawing.Image =
 
 let visualisePoint userText =
   let point = parsePoint3D userText
-  //if point = null then  // doesn't compile - doesn't need
+  //if point = null then  // doesn't compile - doesn't need to
   if point = origin then
     dopefishImage()
   else

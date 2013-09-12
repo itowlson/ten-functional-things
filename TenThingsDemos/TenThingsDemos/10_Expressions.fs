@@ -23,6 +23,7 @@ let exceptionExpressionTest() =
       File.ReadAllText(@"c:\temp\test.txt")
     with
       | :? FileNotFoundException -> String.Empty
+      | :? IOException -> "oh no!"
   printfn "File contents: %s" text
 
 let usingExpressionTest() =
